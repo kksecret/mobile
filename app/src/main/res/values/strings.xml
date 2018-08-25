@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameProject</string>
+    <string name="play_game">PLAY THE GAME</string>
+    <string name="user_won">YOU WON !</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="back_to_the_main_screen">MAIN SCREEN</string>
+</resources>
